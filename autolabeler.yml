@@ -1,4 +1,4 @@
-frontend: ["*.js", "*.css", "*.vue", "*.scss", "*.less", "*.blade.*"]
+frontend: ["*.js", "*.css",*.less", "*.blade.*"]
 backend: ["/app", "*.php"]
 legal: ["LICENSE*", "NOTICES*"]
 config: .github
